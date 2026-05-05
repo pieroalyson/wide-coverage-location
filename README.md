@@ -16,7 +16,7 @@ A project dedicated to the practice of stacks such as HTML5 and CSS3, as well as
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/pieroalyson/wide-coverage-location
+git clone https://github.com/pieroalyson/wide-coverage-location.git
 cd wide-coverage-location
 ```
 ---
