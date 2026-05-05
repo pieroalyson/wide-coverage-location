@@ -1,4 +1,5 @@
 <img src="https://github.com/pieroalyson/wide-coverage-location/blob/master/assets/mockup_widecoveragelocation.jpg?raw=true">
+
 # Wide-Coverage-Location 📍
 
 A project dedicated to the practice of stacks such as HTML5 and CSS3, as well as features like screen adaptation with @mediaquery, as part of my skills training. For that purpose I used an UI Design mockup made on Figma by DevClub's team.
